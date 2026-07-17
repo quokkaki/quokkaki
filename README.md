@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Seungmin
 
-<!--
-**quokkaki/quokkaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my GitHub
 
-Here are some ideas to get you started:
+Thanks for visiting my profile.  
+I’m an iOS developer learning by building apps with Swift, SwiftUI, and UIKit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Email](https://img.shields.io/badge/Email-jsm000426%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jsm000426@gmail.com)
+
+---
+
+## About Me
+
+I care about simple user experiences, readable code, and steady growth.
+
+---
+
+## Skills
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
