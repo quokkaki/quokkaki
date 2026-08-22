@@ -3,7 +3,7 @@
 Thanks for visiting my profile.  
 I’m an iOS developer.
 
-[![Email](https://img.shields.io/badge/Email-jsm000426%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jsm000426@gmail.com)
+[![Email](https://img.shields.io/badge/Email-seungminj833%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jsm000426@gmail.com)
 
 ---
 
